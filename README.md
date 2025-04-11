@@ -2,6 +2,8 @@
 
 A clean and modern portfolio website built with Next.js and styled-components. This simplified version is designed to be easier to understand for Next.js beginners.
 
+Install node on Mac (latest version)
+
 ## Features
 
 - 🌙 Light/Dark mode toggle
